@@ -8,6 +8,8 @@ Clone the repo below and run these command to start server.
 ````
 git clone https://github.com/smhabibjr/Think-in-a-Stimulus-way.git
 
+cd Think-in-a-Stimulus-way
+
 npm install
 
 npm start
